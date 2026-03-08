@@ -1,0 +1,41 @@
+{
+  "Index": {
+    "title": "Welcome to Downlouder",
+    "description": "Download media from any platform instantly."
+  },
+  "DownloadInput": {
+    "placeholder": "Paste public video URL here...",
+    "button": "Download",
+    "invalidUrl": "Please enter a valid URL."
+  },
+  "Progress": {
+    "queued": "Queued for download...",
+    "extracting": "Extracting media info...",
+    "downloading": "Downloading...",
+    "processing": "Processing...",
+    "complete": "Ready for download!",
+    "failed": "Extraction failed. Please try again.",
+    "save": "Save to Device"
+  },
+  "Dashboard": {
+    "title": "Your Downloads",
+    "subtitle": "Track and manage your media history.",
+    "empty": "No downloads yet. Start by pasting a URL on the home page!"
+  },
+  "History": {
+    "url": "Original URL",
+    "status": "Status",
+    "date": "Date",
+    "actions": "Actions",
+    "pending": "Pending",
+    "processing": "Processing",
+    "completed": "Completed",
+    "failed": "Failed"
+  },
+  "Playlist": {
+    "title": "Playlist Items",
+    "select": "Select All",
+    "deselect": "Deselect All",
+    "download": "Download {count} Selected Items"
+  }
+}
